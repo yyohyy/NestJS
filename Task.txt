@@ -1,0 +1,7 @@
+ - Nest
+ - Nest Architecture
+ - Dependency injection
+ - Guards/ Interceptor
+ - Error Handling
+ - Application Design/ MVC
+ - Testing
